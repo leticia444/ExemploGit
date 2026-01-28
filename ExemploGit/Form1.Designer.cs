@@ -34,14 +34,14 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(383, 78);
+            textBox1.Location = new Point(307, 139);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 0;
             // 
             // button1
             // 
-            button1.Location = new Point(383, 144);
+            button1.Location = new Point(320, 87);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 1;
